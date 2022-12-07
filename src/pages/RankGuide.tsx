@@ -171,7 +171,6 @@ export default (): React.ReactNode => {
           <p>
             Kills + Stuns ÷ Deaths + Stuns Received {`>=`} <Text type="success">1.50</Text>
           </p>
-          <p>.</p>
           <br />
         </>
       ),
@@ -269,7 +268,7 @@ export default (): React.ReactNode => {
       ),
     },
     {
-      name: 'Squirrel',
+      name: 'Flying Squirrel',
       description: (
         <>
           <p>
@@ -299,7 +298,7 @@ export default (): React.ReactNode => {
       description: (
         <>
           <p>
-            <Text type="warning">CAP</Text> ÷ Overall Rounds {`>=`} <Text type="success">0.6</Text>
+            <Text type="warning">CAP</Text> Rounds ÷ Overall Rounds {`>=`} <Text type="success">0.6</Text>
           </p>
           <p>
             Weekly Rounds of <Text type="warning">CAP</Text> {`>=`} <Text type="success">30</Text>
@@ -359,20 +358,6 @@ export default (): React.ReactNode => {
         <>
           <p>
             Time Using ENVG Goggles ÷ Play Time {`>=`} <Text type="success">0.05</Text>
-          </p>
-          <br />
-        </>
-      ),
-    },
-    {
-      name: 'Pigeon',
-      description: (
-        <>
-          <p>
-            Stuns ÷ Kills {`<=`} <Text type="success">1.2</Text>
-          </p>
-          <p>
-            Stuns ÷ Stuns Received {`<=`} <Text type="success">1.2</Text>
           </p>
           <br />
         </>
