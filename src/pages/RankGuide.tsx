@@ -253,7 +253,7 @@ export default (): React.ReactNode => {
       ),
     },
     {
-      name: 'Fish',
+      name: 'Fighting Fish',
       description: (
         <>
           <p>
@@ -279,7 +279,7 @@ export default (): React.ReactNode => {
       ),
     },
     {
-      name: 'GaKo',
+      name: 'Ga-ko',
       description: (
         <>
           <p>
@@ -308,7 +308,7 @@ export default (): React.ReactNode => {
       ),
     },
     {
-      name: 'Whale',
+      name: 'Killer Whale',
       description: (
         <>
           <p>
@@ -338,7 +338,7 @@ export default (): React.ReactNode => {
       ),
     },
     {
-      name: 'Komodo',
+      name: 'Komodo Dragon',
       description: (
         <>
           <p>
@@ -439,7 +439,7 @@ export default (): React.ReactNode => {
       ),
     },
     {
-      name: 'Waterbear',
+      name: 'Water Bear',
       description: (
         <>
           <p>
